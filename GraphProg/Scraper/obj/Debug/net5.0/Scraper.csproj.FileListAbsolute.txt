@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net5.0\Scraper.deps.json
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net5.0\Scraper.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net5.0\ref\Scraper.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net5.0\Scraper.pdb
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.csproj.AssemblyReference.cache
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.AssemblyInfo.cs
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\ref\Scraper.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net5.0\Scraper.pdb

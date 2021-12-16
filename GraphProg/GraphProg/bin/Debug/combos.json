@@ -1,0 +1,1346 @@
+{
+  "acid": [
+    "fire",
+    "sulphur"
+  ],
+  "air": [
+    null,
+    null
+  ],
+  "alcohol": [
+    "energy",
+    "water"
+  ],
+  "alcoholic": [
+    "alcohol",
+    "man"
+  ],
+  "ale": [
+    "beer",
+    "Great Britain"
+  ],
+  "algae": [
+    "life",
+    "water"
+  ],
+  "aluminum": [
+    "metal",
+    "plane"
+  ],
+  "ambulance": [
+    "car",
+    "hospital"
+  ],
+  "America": [
+    "Columbus",
+    "continent"
+  ],
+  "ammonite": [
+    "sand",
+    "squid"
+  ],
+  "ant": [
+    "earth",
+    "insect"
+  ],
+  "aquarium": [
+    "fish",
+    "glass"
+  ],
+  "arable land": [
+    "earth",
+    "tractor"
+  ],
+  "ashes": [
+    "dust",
+    "fire"
+  ],
+  "atomic bomb": [
+    "bomb",
+    "scientist"
+  ],
+  "Australia": [
+    "country",
+    "kangaroo"
+  ],
+  "bacon": [
+    "fire",
+    "pig"
+  ],
+  "bacteria": [
+    "life",
+    "swamp"
+  ],
+  "bamboo": [
+    "earth",
+    "grass"
+  ],
+  "banana": [
+    "fruit",
+    "grass"
+  ],
+  "bat": [
+    "bird",
+    "mouse"
+  ],
+  "bear": [
+    "beast",
+    "forest"
+  ],
+  "beast": [
+    "earth",
+    "lizard"
+  ],
+  "beaver": [
+    "beast",
+    "dam"
+  ],
+  "bee": [
+    "beetle",
+    "flower"
+  ],
+  "beer": [
+    "alcohol",
+    "bread"
+  ],
+  "beet": [
+    "cane",
+    "scientist"
+  ],
+  "beetle": [
+    "earth",
+    "worm"
+  ],
+  "Belarus": [
+    "country",
+    "potatoes"
+  ],
+  "berry": [
+    "bush",
+    "fruit"
+  ],
+  "bicycle": [
+    "wheel",
+    "wheel"
+  ],
+  "bird": [
+    "air",
+    "egg"
+  ],
+  "blood": [
+    "beast",
+    "warrior"
+  ],
+  "boat": [
+    "water",
+    "wood"
+  ],
+  "bomb": [
+    "gunpowder",
+    "metal"
+  ],
+  "book": [
+    "paper",
+    "pen"
+  ],
+  "borscht": [
+    "beet",
+    "fire"
+  ],
+  "bread": [
+    "dough",
+    "fire"
+  ],
+  "brick": [
+    "clay",
+    "fire"
+  ],
+  "brick house": [
+    "brick",
+    "concrete"
+  ],
+  "bulb": [
+    "electricity",
+    "glass"
+  ],
+  "bush": [
+    "earth",
+    "fern"
+  ],
+  "butterfly": [
+    "air",
+    "worm"
+  ],
+  "cactus": [
+    "desert",
+    "tree"
+  ],
+  "camel": [
+    "beast",
+    "desert"
+  ],
+  "Canada": [
+    "country",
+    "tree"
+  ],
+  "cane": [
+    "grass",
+    "swamp"
+  ],
+  "car": [
+    "cart",
+    "motor"
+  ],
+  "caramels": [
+    "fire",
+    "sugar"
+  ],
+  "carbon": [
+    "fire",
+    "wood"
+  ],
+  "carbon dioxide": [
+    "man",
+    "oxygen"
+  ],
+  "carmine": [
+    "cochineal",
+    "fire"
+  ],
+  "cart": [
+    "wheel",
+    "wood"
+  ],
+  "cast iron": [
+    "coal",
+    "metal"
+  ],
+  "cat": [
+    "hunter",
+    "mouse"
+  ],
+  "CatDog": [
+    "cat",
+    "dog"
+  ],
+  "caviar": [
+    "fish",
+    "fish"
+  ],
+  "cells": [
+    "bacteria",
+    "bacteria"
+  ],
+  "cement": [
+    "clay",
+    "limestone"
+  ],
+  "ceramic": [
+    "clay",
+    "man"
+  ],
+  "Champagne": [
+    "carbon dioxide",
+    "wine"
+  ],
+  "chariot": [
+    "cart",
+    "warrior"
+  ],
+  "cheese": [
+    "cottage cheese",
+    "fire"
+  ],
+  "chicken": [
+    "egg",
+    "life"
+  ],
+  "China": [
+    "country",
+    "dragon"
+  ],
+  "chocolate": [
+    "cocoa",
+    "sugar"
+  ],
+  "christmas tree": [
+    "bulb",
+    "tree"
+  ],
+  "cigarettes": [
+    "paper",
+    "tobacco"
+  ],
+  "city": [
+    "skyscraper",
+    "skyscraper"
+  ],
+  "clam": [
+    "plankton",
+    "swamp"
+  ],
+  "clay": [
+    "sand",
+    "swamp"
+  ],
+  "clipper": [
+    "fabric",
+    "wooden ship"
+  ],
+  "clothing": [
+    "fabric",
+    "man"
+  ],
+  "cloud": [
+    "air",
+    "steam"
+  ],
+  "coal": [
+    "fire",
+    "tree"
+  ],
+  "Coca-Cola": [
+    "carmine",
+    "soda"
+  ],
+  "cochineal": [
+    "beetle",
+    "cactus"
+  ],
+  "cocktail": [
+    "juice",
+    "vodka"
+  ],
+  "cocoa": [
+    "Mexico",
+    "seed"
+  ],
+  "coin": [
+    "pressure",
+    "silver"
+  ],
+  "cold": [
+    "cloud",
+    "wind"
+  ],
+  "Columbus": [
+    "hero",
+    "sailboat"
+  ],
+  "concrete": [
+    "cement",
+    "water"
+  ],
+  "continent": [
+    "country",
+    "country"
+  ],
+  "corpse": [
+    "man",
+    "poison"
+  ],
+  "cottage cheese": [
+    "fire",
+    "kefir"
+  ],
+  "country": [
+    "city",
+    "city"
+  ],
+  "crab": [
+    "earth",
+    "plankton"
+  ],
+  "dam": [
+    "brick",
+    "water"
+  ],
+  "desert": [
+    "sand",
+    "sand"
+  ],
+  "diamond": [
+    "coal",
+    "pressure"
+  ],
+  "dinosaur": [
+    "earth",
+    "egg"
+  ],
+  "dirt": [
+    "dust",
+    "water"
+  ],
+  "doctor": [
+    "scientist",
+    "sickness"
+  ],
+  "dog": [
+    "man",
+    "wolf"
+  ],
+  "dough": [
+    "flour",
+    "water"
+  ],
+  "dragon": [
+    "dinosaur",
+    "fire"
+  ],
+  "dragonfly": [
+    "insect",
+    "water"
+  ],
+  "dust": [
+    "air",
+    "earth"
+  ],
+  "earth": [
+    null,
+    null
+  ],
+  "egg": [
+    "life",
+    "stone"
+  ],
+  "eggs": [
+    "egg",
+    "fire"
+  ],
+  "Egypt": [
+    "country",
+    "mummy"
+  ],
+  "electric eel": [
+    "electricity",
+    "snake"
+  ],
+  "electricity": [
+    "energy",
+    "metal"
+  ],
+  "elephant": [
+    "beast",
+    "India"
+  ],
+  "energy": [
+    "air",
+    "fire"
+  ],
+  "explosion": [
+    "fire",
+    "gasoline"
+  ],
+  "explosive gas": [
+    "hydrogen",
+    "oxygen"
+  ],
+  "fabric": [
+    "tool",
+    "wool"
+  ],
+  "fat": [
+    "man",
+    "pig"
+  ],
+  "fern": [
+    "moss",
+    "swamp"
+  ],
+  "Finland": [
+    "country",
+    "sauna"
+  ],
+  "fire": [
+    null,
+    null
+  ],
+  "firearm": [
+    "gunpowder",
+    "weapon"
+  ],
+  "firefighter": [
+    "fire",
+    "warrior"
+  ],
+  "firefly": [
+    "beetle",
+    "light"
+  ],
+  "fish": [
+    "bacteria",
+    "plankton"
+  ],
+  "fisherman": [
+    "fish",
+    "hunter"
+  ],
+  "flax": [
+    "arable land",
+    "flower"
+  ],
+  "flour": [
+    "stone",
+    "wheat"
+  ],
+  "flower": [
+    "seed",
+    "water"
+  ],
+  "flu": [
+    "air",
+    "bacteria"
+  ],
+  "forest": [
+    "grove",
+    "grove"
+  ],
+  "France": [
+    "Champagne",
+    "country"
+  ],
+  "frog": [
+    "lizard",
+    "swamp"
+  ],
+  "fruit": [
+    "flower",
+    "tree"
+  ],
+  "fugu fish": [
+    "fish",
+    "poison"
+  ],
+  "gasoline": [
+    "oil",
+    "pressure"
+  ],
+  "gem": [
+    "diamond",
+    "tool"
+  ],
+  "Germany": [
+    "country",
+    "Volkswagen Beetle"
+  ],
+  "geyser": [
+    "earth",
+    "steam"
+  ],
+  "ghost": [
+    "ashes",
+    "life"
+  ],
+  "gladiator": [
+    "chariot",
+    "warrior"
+  ],
+  "glass": [
+    "fire",
+    "sand"
+  ],
+  "gold": [
+    "aluminum",
+    "Philosopher's Stone"
+  ],
+  "grapes": [
+    "earth",
+    "wood"
+  ],
+  "grass": [
+    "earth",
+    "moss"
+  ],
+  "Great Britain": [
+    "country",
+    "Robin Hood"
+  ],
+  "Greenland": [
+    "cold",
+    "country"
+  ],
+  "grilled chicken": [
+    "chicken",
+    "fire"
+  ],
+  "grove": [
+    "tree",
+    "tree"
+  ],
+  "gunpowder": [
+    "saltpeter",
+    "sulphur"
+  ],
+  "hero": [
+    "dragon",
+    "warrior"
+  ],
+  "honey": [
+    "bee",
+    "flower"
+  ],
+  "horse harness": [
+    "beast",
+    "cart"
+  ],
+  "hospital": [
+    "brick house",
+    "sickness"
+  ],
+  "hourglass": [
+    "glass",
+    "sand"
+  ],
+  "hummingbird": [
+    "bird",
+    "flower"
+  ],
+  "hunter": [
+    "man",
+    "weapon"
+  ],
+  "hut": [
+    "man",
+    "stone"
+  ],
+  "hydrogen": [
+    "electricity",
+    "water"
+  ],
+  "hydroplane": [
+    "plane",
+    "water"
+  ],
+  "ice": [
+    "cold",
+    "water"
+  ],
+  "Iceland": [
+    "country",
+    "volcano"
+  ],
+  "idea": [
+    "bulb",
+    "man"
+  ],
+  "India": [
+    "country",
+    "Kama Sutra"
+  ],
+  "insect": [
+    "air",
+    "beetle"
+  ],
+  "iodine": [
+    "algae",
+    "fire"
+  ],
+  "Italy": [
+    "country",
+    "pizza"
+  ],
+  "Japan": [
+    "country",
+    "sushi"
+  ],
+  "jellyfish": [
+    "plankton",
+    "water"
+  ],
+  "juice": [
+    "fruit",
+    "pressure"
+  ],
+  "Kama Sutra": [
+    "book",
+    "sex"
+  ],
+  "kangaroo": [
+    "beast",
+    "frog"
+  ],
+  "kefir": [
+    "bacteria",
+    "milk"
+  ],
+  "killer": [
+    "firearm",
+    "man"
+  ],
+  "lake": [
+    "water",
+    "water"
+  ],
+  "lava": [
+    "earth",
+    "fire"
+  ],
+  "lawnmower": [
+    "grass",
+    "tool"
+  ],
+  "leech": [
+    "blood",
+    "worm"
+  ],
+  "library": [
+    "book",
+    "book"
+  ],
+  "lichen": [
+    "bacteria",
+    "mushroom"
+  ],
+  "life": [
+    "energy",
+    "swamp"
+  ],
+  "light": [
+    "bulb",
+    "electricity"
+  ],
+  "limestone": [
+    "shell",
+    "stone"
+  ],
+  "liquor": [
+    "alcohol",
+    "berry"
+  ],
+  "livestock": [
+    "beast",
+    "man"
+  ],
+  "lizard": [
+    "egg",
+    "swamp"
+  ],
+  "lobster": [
+    "scorpion",
+    "water"
+  ],
+  "locomotive": [
+    "cart",
+    "steam engine"
+  ],
+  "magnet": [
+    "electricity",
+    "metal"
+  ],
+  "man": [
+    "beast",
+    "life"
+  ],
+  "manure": [
+    "grass",
+    "livestock"
+  ],
+  "meat": [
+    "beast",
+    "hunter"
+  ],
+  "medicine": [
+    "poison",
+    "shaman"
+  ],
+  "metal": [
+    "fire",
+    "stone"
+  ],
+  "Mexico": [
+    "country",
+    "tequila"
+  ],
+  "milk": [
+    "livestock",
+    "man"
+  ],
+  "mold": [
+    "dirt",
+    "mushroom"
+  ],
+  "money": [
+    "coin",
+    "paper"
+  ],
+  "monkey": [
+    "man",
+    "wool"
+  ],
+  "Moon": [
+    "cheese",
+    "sky"
+  ],
+  "Moonshine": [
+    "water",
+    "yeast"
+  ],
+  "moss": [
+    "algae",
+    "swamp"
+  ],
+  "motor": [
+    "gasoline",
+    "steam engine"
+  ],
+  "motorboat": [
+    "boat",
+    "motor"
+  ],
+  "motorcycle": [
+    "bicycle",
+    "motor"
+  ],
+  "mouse": [
+    "beast",
+    "cheese"
+  ],
+  "mummy": [
+    "corpse",
+    "fabric"
+  ],
+  "mushroom": [
+    "algae",
+    "earth"
+  ],
+  "music": [
+    "idea",
+    "sound"
+  ],
+  "mussels": [
+    "clam",
+    "sand"
+  ],
+  "ocean": [
+    "sea",
+    "sea"
+  ],
+  "octopus": [
+    "squid",
+    "water"
+  ],
+  "oil": [
+    "peat",
+    "pressure"
+  ],
+  "oxygen": [
+    "flower",
+    "light"
+  ],
+  "ozone": [
+    "electricity",
+    "oxygen"
+  ],
+  "palm": [
+    "fern",
+    "sand"
+  ],
+  "panda": [
+    "beast",
+    "tree"
+  ],
+  "paper": [
+    "cane",
+    "tool"
+  ],
+  "parrot": [
+    "bird",
+    "rainbow"
+  ],
+  "pearls": [
+    "sand",
+    "shell"
+  ],
+  "peas": [
+    "arable land",
+    "seed"
+  ],
+  "peat": [
+    "swamp",
+    "tree"
+  ],
+  "pen": [
+    "bird",
+    "hunter"
+  ],
+  "penguin": [
+    "bird",
+    "ice"
+  ],
+  "penicillin": [
+    "mold",
+    "scientist"
+  ],
+  "perfume": [
+    "alcohol",
+    "flower"
+  ],
+  "philosopher": [
+    "book",
+    "scientist"
+  ],
+  "Philosopher's Stone": [
+    "philosopher",
+    "stone"
+  ],
+  "phoenix": [
+    "bird",
+    "fire"
+  ],
+  "pig": [
+    "dirt",
+    "livestock"
+  ],
+  "pilot": [
+    "man",
+    "plane"
+  ],
+  "Pina Colada": [
+    "milk",
+    "rum"
+  ],
+  "pirate": [
+    "clipper",
+    "killer"
+  ],
+  "pizza": [
+    "cheese",
+    "dough"
+  ],
+  "plane": [
+    "bird",
+    "metal"
+  ],
+  "planet": [
+    "continent",
+    "continent"
+  ],
+  "plankton": [
+    "bacteria",
+    "water"
+  ],
+  "poison": [
+    "scorpion",
+    "tool"
+  ],
+  "poisoned weapon": [
+    "poison",
+    "weapon"
+  ],
+  "potatoes": [
+    "arable land",
+    "tractor"
+  ],
+  "pressure": [
+    "earth",
+    "earth"
+  ],
+  "Pterodactyl": [
+    "air",
+    "dinosaur"
+  ],
+  "radiation": [
+    "atomic bomb",
+    "earth"
+  ],
+  "rainbow": [
+    "light",
+    "water"
+  ],
+  "reed": [
+    "grass",
+    "water"
+  ],
+  "rice": [
+    "arable land",
+    "cane"
+  ],
+  "Robin Hood": [
+    "forest",
+    "hero"
+  ],
+  "robot": [
+    "metal",
+    "scientist"
+  ],
+  "Romania": [
+    "country",
+    "Transylvania"
+  ],
+  "rum": [
+    "alcohol",
+    "pirate"
+  ],
+  "Russia": [
+    "bear",
+    "country"
+  ],
+  "sailboat": [
+    "boat",
+    "fabric"
+  ],
+  "salamander": [
+    "fire",
+    "lizard"
+  ],
+  "salo": [
+    "hunter",
+    "pig"
+  ],
+  "salt": [
+    "acid",
+    "metal"
+  ],
+  "salt water": [
+    "salt",
+    "water"
+  ],
+  "saltpeter": [
+    "limestone",
+    "manure"
+  ],
+  "sand": [
+    "air",
+    "stone"
+  ],
+  "sandwich": [
+    "bread",
+    "meat"
+  ],
+  "Saudi Arabia": [
+    "country",
+    "oil"
+  ],
+  "sauna": [
+    "hut",
+    "steam"
+  ],
+  "scarab": [
+    "beetle",
+    "manure"
+  ],
+  "scientist": [
+    "library",
+    "man"
+  ],
+  "scorpion": [
+    "beetle",
+    "sand"
+  ],
+  "sea": [
+    "lake",
+    "salt"
+  ],
+  "seed": [
+    "earth",
+    "life"
+  ],
+  "sex": [
+    "man",
+    "man"
+  ],
+  "shaman": [
+    "man",
+    "mushroom"
+  ],
+  "shell": [
+    "plankton",
+    "stone"
+  ],
+  "sickness": [
+    "flu",
+    "man"
+  ],
+  "silicon": [
+    "pressure",
+    "sand"
+  ],
+  "silver": [
+    "metal",
+    "Moon"
+  ],
+  "sky": [
+    "air",
+    "cloud"
+  ],
+  "skyscraper": [
+    "brick house",
+    "glass"
+  ],
+  "slug": [
+    "clam",
+    "swamp"
+  ],
+  "smoke": [
+    "fire",
+    "tobacco"
+  ],
+  "snail": [
+    "shell",
+    "worm"
+  ],
+  "snake": [
+    "swamp",
+    "worm"
+  ],
+  "soda": [
+    "carbon dioxide",
+    "water"
+  ],
+  "sound": [
+    "metal",
+    "wind"
+  ],
+  "space": [
+    "sky",
+    "star"
+  ],
+  "Space Shuttle": [
+    "plane",
+    "space"
+  ],
+  "spider": [
+    "crab",
+    "stone"
+  ],
+  "squid": [
+    "clam",
+    "water"
+  ],
+  "star": [
+    "scientist",
+    "Sun"
+  ],
+  "starfish": [
+    "plankton",
+    "sand"
+  ],
+  "steam": [
+    "fire",
+    "water"
+  ],
+  "steam boiler": [
+    "metal",
+    "steam"
+  ],
+  "steam engine": [
+    "coal",
+    "steam boiler"
+  ],
+  "steamboat": [
+    "steam engine",
+    "wooden ship"
+  ],
+  "stingray": [
+    "electricity",
+    "fish"
+  ],
+  "stone": [
+    "lava",
+    "water"
+  ],
+  "storm": [
+    "air",
+    "energy"
+  ],
+  "submarine": [
+    "metal",
+    "whale"
+  ],
+  "sugar": [
+    "cane",
+    "pressure"
+  ],
+  "sulphur": [
+    "bacteria",
+    "swamp"
+  ],
+  "Sun": [
+    "chariot",
+    "sky"
+  ],
+  "sunflower": [
+    "flower",
+    "Sun"
+  ],
+  "sunflower oil": [
+    "pressure",
+    "sunflower"
+  ],
+  "sushi": [
+    "algae",
+    "fish"
+  ],
+  "swamp": [
+    "earth",
+    "water"
+  ],
+  "sweet water": [
+    "sugar",
+    "water"
+  ],
+  "Switzerland": [
+    "country",
+    "watch"
+  ],
+  "tea": [
+    "bush",
+    "India"
+  ],
+  "tequila": [
+    "alcohol",
+    "worm"
+  ],
+  "termites": [
+    "ant",
+    "wood"
+  ],
+  "thunder": [
+    "sound",
+    "storm"
+  ],
+  "tick": [
+    "dust",
+    "life"
+  ],
+  "time": [
+    "hourglass",
+    "life"
+  ],
+  "toast": [
+    "bread",
+    "fire"
+  ],
+  "tobacco": [
+    "fire",
+    "grass"
+  ],
+  "tool": [
+    "man",
+    "metal"
+  ],
+  "tractor": [
+    "earth",
+    "steam engine"
+  ],
+  "Transylvania": [
+    "country",
+    "vampire"
+  ],
+  "tree": [
+    "earth",
+    "seed"
+  ],
+  "turtle": [
+    "egg",
+    "sand"
+  ],
+  "Ukraine": [
+    "country",
+    "salo"
+  ],
+  "uranium": [
+    "metal",
+    "radiation"
+  ],
+  "vampire": [
+    "blood",
+    "man"
+  ],
+  "vine": [
+    "grass",
+    "tree"
+  ],
+  "vinegar": [
+    "alcohol",
+    "oxygen"
+  ],
+  "vodka": [
+    "alcohol",
+    "water"
+  ],
+  "volcano": [
+    "lava",
+    "pressure"
+  ],
+  "Volkswagen Beetle": [
+    "beetle",
+    "car"
+  ],
+  "vulture": [
+    "bird",
+    "blood"
+  ],
+  "warrior": [
+    "hunter",
+    "weapon"
+  ],
+  "watch": [
+    "time",
+    "tool"
+  ],
+  "water": [
+    null,
+    null
+  ],
+  "weapon": [
+    "metal",
+    "tool"
+  ],
+  "whale": [
+    "beast",
+    "water"
+  ],
+  "wheat": [
+    "arable land",
+    "grass"
+  ],
+  "wheel": [
+    "tool",
+    "wood"
+  ],
+  "whiskey": [
+    "alcohol",
+    "wheat"
+  ],
+  "wind": [
+    "air",
+    "air"
+  ],
+  "wine": [
+    "bacteria",
+    "grapes"
+  ],
+  "wolf": [
+    "beast",
+    "Moon"
+  ],
+  "wood": [
+    "tool",
+    "tree"
+  ],
+  "wooden ship": [
+    "boat",
+    "wood"
+  ],
+  "woodpecker": [
+    "bird",
+    "wood"
+  ],
+  "wool": [
+    "livestock",
+    "tool"
+  ],
+  "worm": [
+    "bacteria",
+    "earth"
+  ],
+  "yeast": [
+    "bacteria",
+    "bread"
+  ],
+  "zombie": [
+    "corpse",
+    "life"
+  ]
+}

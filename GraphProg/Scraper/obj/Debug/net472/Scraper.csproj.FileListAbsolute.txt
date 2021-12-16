@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net472\Scraper.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net472\Scraper.pdb
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net472\HtmlAgilityPack.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.csproj.AssemblyReference.cache
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.AssemblyInfo.cs
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.csproj.CopyComplete
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.dll
+C:\Users\renat\Desktop\VS_projects\GraphProg\Scraper\obj\Debug\net472\Scraper.pdb
